@@ -9,4 +9,5 @@ elif variavel_1 == "neves":
     print("o sobrenome esta correto")
 else:
     print('não é o seu nome')
-        
+
+# lucas das neves dantas santos
