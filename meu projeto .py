@@ -12,3 +12,4 @@ while True:
 print("\nlista de nomes:")
 for n in nomes:
     print(n)
+    
