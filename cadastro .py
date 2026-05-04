@@ -1,25 +1,32 @@
 
-
-while True:
-    senha=input("digite sua senha:")
-
-    for letra in list(senha):
-        try:
-            int(letra)
-
-        except ValueError:
-            print("digite sua senhn")
-            print("tente denvo/a")
-            break
-
-         while True:
-         valida = True
-         if input("senha esta correta"):
-         invalida = False
-         if valida("senha valida"):
+    
 
 
-        
+#         lista_senhas = []
+
+# while True:
+#     senha=input("digite sua senha(apenas numero):")
+     
+#     valida = True
+
+#     for letra in senha:
+#         try:
+#             int(letra)
+
+#         except ValueError:
+#             print("senha invalida! digite apenas um numeros")
+#             print("tente denvo/a")
+#             valida = False
+#             break
+
+#     if valida:
+#        print("senha valida")
+#        break
+#        lista_senha.append(senha)
+
+#        continue = input("dseja cadastra outra senha? (s/n):").lower()
+#        if continuar = "s":
+#          break
             
      
 
